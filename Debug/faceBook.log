@@ -1,0 +1,15 @@
+﻿  mainFunctions.cpp
+c:\users\danbel\documents\mega\לימודים\מדעי המחשב\שנה ב\c++\שב\facebook klifo\facebook\mainfunctions.cpp(135): warning C4101: 'statusType': unreferenced local variable
+c:\users\danbel\documents\mega\לימודים\מדעי המחשב\שנה ב\c++\שב\facebook klifo\facebook\mainfunctions.cpp(134): warning C4101: 'i': unreferenced local variable
+c:\users\danbel\documents\mega\לימודים\מדעי המחשב\שנה ב\c++\שב\facebook klifo\facebook\mainfunctions.cpp(180): warning C4101: 'i': unreferenced local variable
+  Utils.cpp
+  FansPage.cpp
+c:\users\danbel\documents\mega\לימודים\מדעי המחשב\שנה ב\c++\שב\facebook klifo\facebook\fanspage.cpp(30): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+c:\users\danbel\documents\mega\לימודים\מדעי המחשב\שנה ב\c++\שב\facebook klifo\facebook\mainfunctions.cpp(23): warning C4715: 'getTypeStatus': not all control paths return a value
+  Compiling...
+  main.cpp
+  faceBook.cpp
+  Generating Code...
+  faceBook.vcxproj -> C:\Users\danbel\Documents\MEGA\לימודים\מדעי המחשב\שנה ב\C++\שב\facebook klifo\Debug\faceBook.exe
+  faceBook.vcxproj -> C:\Users\danbel\Documents\MEGA\לימודים\מדעי המחשב\שנה ב\C++\שב\facebook klifo\Debug\faceBook.pdb (Full PDB)
